@@ -3,22 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://website-name.com/</loc>
+    <loc>https://olegk.dev/index.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://website-name.com/series/</loc>
+    <loc>https://olegk.dev/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://website-name.com/series-desc/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://website-name.com/tags/</loc>
+    <loc>https://olegk.dev/tags/</loc>
     <priority>0</priority>
   </url>
   
