@@ -3,7 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://olegk.dev/index.html</loc>
+    <loc>https://olegk.dev/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://olegk.dev/categories/</loc>
     <priority>0</priority>
   </url>
   
